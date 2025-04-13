@@ -2,7 +2,7 @@
 
 <font size=2><div align='center' >  [[✨ Project ](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[🏆 Leaderboard](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[📖 arXiv Paper](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[📊 Dataset ](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] </div></font>
 
-If you like our project, please consider giving us a star ⭐ on the Uni-MoE repository to stay updated with the latest developments.
+If you like our project, please consider giving us a star ⭐ on the repository to stay updated with the latest developments.
 
 ---
 ## 🔥 News
