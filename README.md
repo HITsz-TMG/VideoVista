@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="VideoVista-CulturalLingo/asset/VideoVista_no_bg_s.png" alt="VideoVista Logo" width="300"/>
+</div>
+
 #  VideoVista Family
 
 
