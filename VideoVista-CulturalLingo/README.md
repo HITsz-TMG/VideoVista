@@ -1,13 +1,16 @@
+<div align="center">
+  <img src="asset/VideoVista_no_bg.png" alt="VideoVista Logo" width="300"/>
+</div>
+
 # VideoVista-CulturalLingo: 360° Horizons-Bridging Cultures, Languages, and Domains in Video Comprehension 
 
-<font size=2><div align='center' >  [[✨ Project ](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[🏆 Leaderboard](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[📖 arXiv Paper](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[📊 Dataset ](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] </div></font>
-
+<font size=2><div align='center' >  [[🌐 Project](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[🏆 Leaderboard](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[📄 arXiv](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[🤗 Huggingface](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] </div></font>
 If you like our project, please consider giving us a star ⭐ on the Uni-MoE repository to stay updated with the latest developments.
 
 ---
 ## 🔥 News
 
-**`2025.04.15`** 🚀 We release VideoVista-CulturalLingo, the first video evaluation benchmark designed to bridge cultural, linguistic, and domain divide in video comprehension. You can download this benchmark from [HuggingFace](https://huggingface.co/datasets/Uni-MoE/VideoVista-CulturalLingo).
+**`2025.04.23`** 🚀 We release VideoVista-CulturalLingo, the first video evaluation benchmark designed to bridge cultural, linguistic, and domain divide in video comprehension. You can download this benchmark from [HuggingFace](https://huggingface.co/datasets/Uni-MoE/VideoVista-CulturalLingo).
 
 ## 🌟 VideoVista-CulturalLingo Overview
 
