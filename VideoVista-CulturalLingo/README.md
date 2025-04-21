@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="asset/VideoVista_no_bg.png" alt="VideoVista Logo" width="300"/>
+  <img src="asset/VideoVista_no_bg_s.png" alt="VideoVista Logo" width="300"/>
 </div>
 
 # VideoVista-CulturalLingo: 360° Horizons-Bridging Cultures, Languages, and Domains in Video Comprehension 
