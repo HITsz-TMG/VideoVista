@@ -15,7 +15,7 @@ If you appreciate our project, please consider giving us a star ⭐ on GitHub to
 
 ## 🔥 News
 
-**`2025.04.15`** 🚀 We release VideoVista-CulturalLingo, the first video evaluation benchmark designed to bridge cultural, linguistic, and domain divide in video comprehension. You can download this benchmark from [HuggingFace](https://huggingface.co/datasets/Uni-MoE/VideoVista-CulturalLingo).
+**`2025.04.23`** 🚀 We release VideoVista-CulturalLingo, the first video evaluation benchmark designed to bridge cultural, linguistic, and domain divide in video comprehension. You can download this benchmark from [HuggingFace](https://huggingface.co/datasets/Uni-MoE/VideoVista-CulturalLingo).
 
 **`2025.04.13`** 🎉 We move the previous VideoVista from [Uni-MoE](https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs) to here. It contains the [VideoVista (Evaluation), VideoVista-Train (Instruction Tuning), VideoVista-Event (Pertaining)](https://huggingface.co/collections/Uni-MoE/videovista-67f397b7eddc81cb207228a2)
 
