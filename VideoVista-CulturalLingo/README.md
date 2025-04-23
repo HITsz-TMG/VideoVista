@@ -4,7 +4,7 @@
 
 # VideoVista-CulturalLingo: 360° Horizons-Bridging Cultures, Languages, and Domains in Video Comprehension 
 
-<font size=2><div align='center' >  [[🌐 Project](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[🏆 Leaderboard](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[📄 arXiv](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] [[🤗 Huggingface](https://huggingface.co/datasets/Uni-MoE/Dataset_Collection/VideoVista-CulturalLingo)] </div></font>
+<font size=2><div align='center' >  [[🌐 Project](https://videovista-culturallingo.github.io/)] [[🏆 Leaderboard](https://videovista-culturallingo.github.io/#leaderboard)] [[📄 arXiv]()] [[🤗 Huggingface](https://huggingface.co/datasets/Uni-MoE/VideoVista-CulturalLingo)] </div></font>
 If you like our project, please consider giving us a star ⭐ on the repository to stay updated with the latest developments.
 
 ---
@@ -89,7 +89,7 @@ Details about more baselines are shown in [🏆 Leaderboard](https://videovista.
 ## Citation
 
 If you find VideoVista useful for your research and applications, please cite using this BibTeX:
-<!-- ```bibtex
+```bibtex
 @misc{li2024videovista,
       title={VideoVista: A Versatile Benchmark for Video Understanding and Reasoning}, 
       author={Yunxin Li and Xinyu Chen and Baotian Hu and Longyue Wang and Haoyuan Shi and Min Zhang},
@@ -97,5 +97,4 @@ If you find VideoVista useful for your research and applications, please cite us
       eprint={2406.11303},
       archivePrefix={arXiv}
 }
-
-``` -->
+```
