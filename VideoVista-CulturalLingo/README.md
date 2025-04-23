@@ -30,14 +30,15 @@ You can download the JSON file and VIDEOS from [Huggingface]().
 
 When downloading videos, you may need to download all the zip files with different suffixes. After that, just extract the file using follow command.
 ```shell
-todo
+cat videos.zip.* > combined_videos.zip
+unzip combined_videos.zip
 ```
 
 We provide the calculation scripts in [Evaluation Code](Dataset_Collection/VideoVista-CulturalLingo/evaluation), you need include key "question_id" and "pred" in your result file and store in json format.
 
 ```shell
 cd Dataset_Collection/VideoVista-CulturalLingo/evaluation
-python evaluate.py --results_file your_result_json
+python evaluate.py --results_file your_result_json --results_file VideoVista-CulturalLingo.json
 ```
 
 ## :yum: Leaderboard
