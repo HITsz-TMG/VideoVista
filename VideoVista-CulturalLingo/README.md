@@ -4,11 +4,12 @@
 
 # VideoVista-CulturalLingo: 360° Horizons-Bridging Cultures, Languages, and Domains in Video Comprehension 
 
-<font size=2><div align='center' >  [[🌐 Project](https://videovista-culturallingo.github.io/)] [[🏆 Leaderboard](https://videovista-culturallingo.github.io/#leaderboard)] [[📄 arXiv]()] [[🤗 Huggingface](https://huggingface.co/datasets/Uni-MoE/VideoVista-CulturalLingo)] </div></font>
+<font size=2><div align='center' >  [[🌐 Project](https://videovista-culturallingo.github.io/)] [[🏆 Leaderboard](https://videovista-culturallingo.github.io/#leaderboard)] [[📄 arXiv](https://arxiv.org/abs/2504.17821)] [[🤗 Huggingface](https://huggingface.co/datasets/Uni-MoE/VideoVista-CulturalLingo)] </div></font>
 If you like our project, please consider giving us a star ⭐ on the repository to stay updated with the latest developments.
 
 ---
 ## 🔥 News
+**`2025.04.28`** 🚀 The paper is now on [Arxiv](https://arxiv.org/abs/2504.17821)!
 
 **`2025.04.23`** 🚀 We release VideoVista-CulturalLingo, the first video evaluation benchmark designed to bridge cultural, linguistic, and domain divide in video comprehension. You can download this benchmark from [HuggingFace](https://huggingface.co/datasets/Uni-MoE/VideoVista-CulturalLingo).
 
@@ -88,13 +89,13 @@ Details about more baselines are shown in [🏆 Leaderboard](https://videovista.
 
 ## Citation
 
-If you find VideoVista useful for your research and applications, please cite using this BibTeX:
+If you find VideoVista-CulturalLingo useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-@misc{li2024videovista,
-      title={VideoVista: A Versatile Benchmark for Video Understanding and Reasoning}, 
-      author={Yunxin Li and Xinyu Chen and Baotian Hu and Longyue Wang and Haoyuan Shi and Min Zhang},
-      year={2024},
-      eprint={2406.11303},
-      archivePrefix={arXiv}
+@misc{chen2025videovistaculturallingo,
+      title={VideoVista-CulturalLingo: 360$^\circ$ Horizons-Bridging Cultures, Languages, and Domains in Video Comprehension}, 
+      author={Xinyu Chen and Yunxin Li and Haoyuan Shi and Baotian Hu and Wenhan Luo and Yaowei Wang and Min Zhang},
+      year={2025},
+      eprint={2504.17821},
+      archivePrefix={arXiv},
 }
 ```
