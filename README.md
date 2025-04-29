@@ -8,9 +8,10 @@
 
 
 <a src="https://img.shields.io/badge/cs.CV-2406.11303-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2406.11303"> <img src="https://img.shields.io/badge/cs.CV-2406.11303-b31b1b?logo=arxiv&logoColor=red">
-</a> | 
+</a> 
 <a src="https://img.shields.io/badge/cs.CV-2406.11303-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2504.17821"> <img src="https://img.shields.io/badge/cs.CV-2406.11303-b31b1b?logo=arxiv&logoColor=red">
 </a>
+[![🤗Hugging Face](https://img.shields.io/badge/🤗Hugging_Face-VideoVista-yellow)](https://huggingface.co/collections/Uni-MoE/videovista-67f397b7eddc81cb207228a2)
 
 If you appreciate our project, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.
 
