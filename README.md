@@ -27,19 +27,17 @@ If you appreciate our project, please consider giving us a star ⭐ on GitHub to
 ## :page_facing_up: Citation
 If you find this project useful in your research, please consider cite:
 ```bibtex
-@misc{li2024videovista,
-        title={VideoVista: A Versatile Benchmark for Video Understanding and Reasoning}, 
-        author={Yunxin Li and Xinyu Chen and Baotian Hu and Longyue Wang and Haoyuan Shi and Min Zhang},
-        year={2024},
-        eprint={2406.11303},
-        archivePrefix={arXiv}
+@article{li2024videovista,
+  title={Videovista: A versatile benchmark for video understanding and reasoning},
+  author={Li, Yunxin and Chen, Xinyu and Hu, Baotian and Wang, Longyue and Shi, Haoyuan and Zhang, Min},
+  journal={arXiv preprint arXiv:2406.11303},
+  year={2024}
 }
 
-@misc{chen2025videovistaculturallingo,
-      title={VideoVista-CulturalLingo: 360$^\circ$ Horizons-Bridging Cultures, Languages, and Domains in Video Comprehension}, 
-      author={Xinyu Chen and Yunxin Li and Haoyuan Shi and Baotian Hu and Wenhan Luo and Yaowei Wang and Min Zhang},
-      year={2025},
-      eprint={2504.17821},
-      archivePrefix={arXiv},
+@article{chen2025videovista,
+  title={VideoVista-CulturalLingo: 360$\^{}$\backslash$circ $ Horizons-Bridging Cultures, Languages, and Domains in Video Comprehension},
+  author={Chen, Xinyu and Li, Yunxin and Shi, Haoyuan and Hu, Baotian and Luo, Wenhan and Wang, Yaowei and Zhang, Min},
+  journal={arXiv preprint arXiv:2504.17821},
+  year={2025}
 }
 ```
