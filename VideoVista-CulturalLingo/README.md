@@ -91,11 +91,10 @@ Details about more baselines are shown in [🏆 Leaderboard](https://videovista.
 
 If you find VideoVista-CulturalLingo useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-@misc{chen2025videovistaculturallingo,
-      title={VideoVista-CulturalLingo: 360$^\circ$ Horizons-Bridging Cultures, Languages, and Domains in Video Comprehension}, 
-      author={Xinyu Chen and Yunxin Li and Haoyuan Shi and Baotian Hu and Wenhan Luo and Yaowei Wang and Min Zhang},
-      year={2025},
-      eprint={2504.17821},
-      archivePrefix={arXiv},
+@article{chen2025videovista,
+  title={VideoVista-CulturalLingo: 360$\^{}$\backslash$circ $ Horizons-Bridging Cultures, Languages, and Domains in Video Comprehension},
+  author={Chen, Xinyu and Li, Yunxin and Shi, Haoyuan and Hu, Baotian and Luo, Wenhan and Wang, Yaowei and Zhang, Min},
+  journal={arXiv preprint arXiv:2504.17821},
+  year={2025}
 }
 ```
