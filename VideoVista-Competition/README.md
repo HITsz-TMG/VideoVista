@@ -35,7 +35,7 @@ This competition establishes a comprehensive evaluation framework using internet
 
 | Stage | Time | Description |
 |-------|------|-------------|
-| **Competition Registration** | 2025-11-17 00:00 - 2025-1-10 23:59 | Competition launch; participants must register. |
+| **Competition Registration** | 2025-11-17 00:00 - 2026-1-10 23:59 | Competition launch; participants must register. |
 | **Benchmark A Submission** | 2025-11-17 00:00 - 2026-1-17 23:59 | Participants submit their evaluation results of benchmark A by email. The score will be based on the highest score submitted by the team. |
 | **Benchmark B Submission** | 2026-1-18 00:00 - 2026-1-31 23:59 | Participants submit their evaluation results of benchmark B by email. The score will be based on the highest score submitted by the team. |
 
