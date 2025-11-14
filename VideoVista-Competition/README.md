@@ -167,7 +167,7 @@ Teams are encouraged to perform fine-tuning, architectural modifications, and in
 |------|------|-------|---------|-------------|
 | 1 | Baseline | Qwen3-VL-8B-Instruct | 59.26 | 2025-11-17 |
 | 2 | Baseline | InternVL3_5-8B | 47.08 | 2025-11-17 |
-| 3 | Baseline | Uni-MoE-2.0-Omni | - | 2025-11-17 |
+| 3 | Baseline | Uni-MoE-2.0-Omni | 49.62 | 2025-11-17 |
 
 *Leaderboard updates every 24 hours during competition period*
 
