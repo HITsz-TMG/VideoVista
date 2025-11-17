@@ -135,7 +135,7 @@ Teams are encouraged to perform fine-tuning, architectural modifications, and in
 ## 📤 Submission
 
 ### Submission Process
-- **Method**: Email submission (Benchmark A limited to 4 submissions per week, Benchmark B limited to 8 submissions per week)
+- **Method**: Email submission **(Benchmark A limited to 4 submissions per week, Benchmark B limited to 8 submissions per week)**
 - **Early Phase**: Submit only prediction results files
 - **Final Phase**: Submit model weights for inference verification
 
