@@ -162,6 +162,13 @@ Teams are encouraged to perform fine-tuning, architectural modifications, and in
 
 ## 📊 Leaderboard
 
+### Benchmark A
+
+| Rank | Team | Model | Overall | Last Update |
+|------|------|-------|---------|-------------|
+| 1 | Baseline | Uni-MoE-2.0-Omni | - |- |
+
+
 
 ### Benchmark B
 
