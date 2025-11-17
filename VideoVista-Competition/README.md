@@ -157,7 +157,7 @@ Teams are encouraged to perform fine-tuning, architectural modifications, and in
 
 ### Submission Email
 - **Address**: videovista@163.com
-- **Subject**: TeamName_Submission_Date
+- **Subject**: TeamName_Submission_Date (Example: TMG_Submission_2025-11-17)
 - **Attachment**: JSON file with predictions
 
 ## 📊 Leaderboard
