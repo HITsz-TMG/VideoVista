@@ -175,9 +175,9 @@ Teams are encouraged to perform fine-tuning, architectural modifications, and in
 
 Thanks to Huawei Cloud for sponsoring this competition!
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/huawei.svg" alt="Huawei Logo" width="200"/>
-</div>
+</div> -->
 
 
 ## 📚 Citation
