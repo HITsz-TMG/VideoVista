@@ -210,7 +210,7 @@ For competition-related questions and support:
 - **Email**: videovista@163.com
 - **Discussion Group**: Join our WeChat group for real-time updates and discussions
  <div align="center">
-  <img src="assets/weixin.png" alt="WeChat Group" width="200"/>
+  <img src="assets/weixin.jpg" alt="WeChat Group" width="200"/>
 </div> 
 - **GitHub Issues**: Use GitHub Issues for technical questions and bug reports
 
