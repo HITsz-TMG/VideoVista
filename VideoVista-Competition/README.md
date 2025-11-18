@@ -211,9 +211,9 @@ For competition-related questions and support:
 - **GitHub Issues**: Use GitHub Issues for technical questions and bug reports
 - **Discussion Group**: Join our WeChat group for real-time updates and discussions
 
- <div align="center">
+ <!-- <div align="center">
   <img src="assets/weixin.jpg" alt="WeChat_Group" width="200"/>
-</div> 
+</div>  -->
 
 
 
