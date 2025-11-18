@@ -212,7 +212,7 @@ For competition-related questions and support:
 - **Discussion Group**: Join our WeChat group for real-time updates and discussions
 
  <div align="center">
-  <img src="assets/weixin.jpg" alt="WeChat Group" width="200"/>
+  <img src="assets/weixin.jpg" alt="WeChat_Group" width="200"/>
 </div> 
 
 
