@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/HITsz-TMG/VideoVista/main/VideoVista-CulturalLingo/asset/VideoVista_no_bg_s.png" alt="VideoVista Logo" width="300"/>
 </div>
 
-# HITSZ TMG VideoVista Evaluation Competition
+# HITSZ Research Institute of Computing and Intelligence TMG VideoVista Evaluation Competition
 
 [![arXiv](https://img.shields.io/badge/arXiv-2406.11303-b31b1b.svg)](https://arxiv.org/abs/2406.11303)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.17821-b31b1b.svg)](https://arxiv.org/abs/2504.17821)
@@ -15,11 +15,11 @@ If you appreciate our competition, please consider giving us a star ⭐ on GitHu
 
 ## 🔥 News
 
-- **`2025.11.17`** 🚀 Competition registration is now open! Join us for the HITSZ TMG Video Evaluation Competition. Fill out [**Team Registration Form**](https://docs.qq.com/form/page/DQ2NBbWF1cHpmWFJK#/fill) and [**Participants Registration Form**](https://docs.qq.com/form/page/DQ2JPenFKZFVJUW5y#/fill) to Register! **Attention:** In addition to filling out the Team Registration Form as a team, each participant must also fill out the Participants Registration Form individually.
+- **`2025.11.17`** 🚀 Competition registration is now open! Join us for the HITSZ Research Institute of Computing and Intelligence TMG Video Evaluation Competition. Fill out [**Team Registration Form**](https://docs.qq.com/form/page/DQ2NBbWF1cHpmWFJK#/fill) and [**Participants Registration Form**](https://docs.qq.com/form/page/DQ2JPenFKZFVJUW5y#/fill) to Register! **Attention:** In addition to filling out the Team Registration Form as a team, each participant must also fill out the Participants Registration Form individually.
 
 ## 🏆 Competition
 
-With the exponential growth of internet video data, video analysis technology based on multimodal large models is becoming a key force driving AI development. To systematically evaluate and push the boundaries of multimodal large models in video understanding, we are hosting the **HITSZ TMG VideoVista Evaluation Competition**.
+With the exponential growth of internet video data, video analysis technology based on multimodal large models is becoming a key force driving AI development. To systematically evaluate and push the boundaries of multimodal large models in video understanding, we are hosting the **HITSZ Research Institute of Computing and Intelligence TMG VideoVista Evaluation Competition**.
 
 ### 📋 Competition Overview
 
