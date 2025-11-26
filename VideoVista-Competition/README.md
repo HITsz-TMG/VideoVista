@@ -124,13 +124,17 @@ Acc = Number of correct predictions / Total number of test samples
 
 ## 🛠️ Baseline Models
 
-Participants must build upon **open-source models** for architectural innovation and training.
+Participants must build on **open-source models** with **no more than 30B** parameters when developing architectural innovations and training methods.
+
+Teams are encouraged to perform fine-tuning, architectural modifications, and innovative training approaches on these base models.
+
+Agents are also allowed, provided that the total parameter count remains within the same 30B limit.
 
 We recommend the following Uni-MoE 2.0 as a baseline.
 
 - [**Uni-MoE 2.0**](https://huggingface.co/HIT-TMG/Uni-MoE-2.0-Base)
 
-Teams are encouraged to perform fine-tuning, architectural modifications, and innovative training approaches on these base models.
+
 
 ## 📤 Submission
 
