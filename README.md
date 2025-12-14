@@ -17,6 +17,8 @@ If you appreciate our project, please consider giving us a star ⭐ on GitHub to
 
 ## 🔥 News
 
+**`2025.12.11`** 🚀 We have open-sourced the video long chain-of-thought reasoning data for cold-start reinforcement learning, available at [Video-CoTs](https://huggingface.co/datasets/HIT-TMG/VideoVista-CoTs)
+
 **`2025.11.17`** 🚀 We have partnered with Huawei Cloud to launch the first VideoVista Video Understanding and Reasoning Competition. Everyone is welcome to sign up! For more details, see [VideoVista-Competition](https://github.com/HITsz-TMG/VideoVista/tree/main/VideoVista-Competition)
 
 **`2025.04.23`** 🚀 We release VideoVista-CulturalLingo, the first video evaluation benchmark designed to bridge cultural, linguistic, and domain divide in video comprehension. You can download this benchmark from [HuggingFace](https://huggingface.co/datasets/Uni-MoE/VideoVista-CulturalLingo).
