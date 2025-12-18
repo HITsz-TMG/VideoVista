@@ -169,14 +169,14 @@ We recommend the following Uni-MoE 2.0 as a baseline.
 ### Benchmark A
 
 | Rank | Team |  Overall | Last Update |
-|------|------|-------|---------|-------------|
+|------|------|---------|-------------|
 | 1 | JNU_BenchTest | 53.45 | 2025-12-18 |
 
 
 
 ### Benchmark B
 
-| Rank | Team | Model | Overall | Last Update |
+| Rank | Team | Overall | Last Update |
 |------|------|-------|---------|-------------|
 | 1 | Baseline | Qwen3-VL-8B-Instruct | 59.26 | 2025-11-17 |
 | 2 | Baseline | Uni-MoE-2.0-Omni | 49.62 | 2025-11-17 |
