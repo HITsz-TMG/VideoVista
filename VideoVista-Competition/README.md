@@ -166,6 +166,13 @@ We recommend the following Uni-MoE 2.0 as a baseline.
 
 ## 📊 Leaderboard
 
+### Benchmark A
+
+| Rank | Team |  Overall | Last Update |
+|------|------|-------|---------|-------------|
+| 1 | JNU_BenchTest | 53.45 | 2025-12-18 |
+
+
 
 ### Benchmark B
 
