@@ -148,11 +148,11 @@ We recommend the following Uni-MoE 2.0 as a baseline.
 ```json
 [
   {
-    "question_id": "q0",
+    "question_id": "question_0",
     "prediction": "D"
   },
   {
-    "question_id": "q1", 
+    "question_id": "question_1", 
     "prediction": "B"
   },
    ...
@@ -223,7 +223,7 @@ For competition-related questions and support:
 - **Discussion Group**: Join our WeChat group for real-time updates and discussions
 
 <div align="center">
-  <img src="assets/wechat_1215.jpg" alt="WeChat Group" width="200"/>
+  <img src="assets/wechat_1225.jpg" alt="WeChat Group" width="200"/>
 </div>
 
 
