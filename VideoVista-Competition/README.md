@@ -17,6 +17,7 @@ If you appreciate our competition, please consider giving us a star ⭐ on GitHu
 
 - **`2025.11.17`** 🚀 Competition registration is now open! Join us for the HITSZ Lychee Video Evaluation Competition. Fill out [**Team Registration Form**](https://docs.qq.com/form/page/DQ2NBbWF1cHpmWFJK#/fill) and [**Participants Registration Form**](https://docs.qq.com/form/page/DQ2JPenFKZFVJUW5y#/fill) to Register! **Attention:** In addition to filling out the Team Registration Form as a team, each participant must also fill out the Participants Registration Form individually.
 
+- **`2026.01.09`** 🚀  We have extended the competition registration deadline to February 1, 2026. Meanwhile, the opening time for Benchmark B submissions remains unchanged, and the submission deadline has been extended to February 7, 2026.
 ## 🏆 Competition
 
 With the exponential growth of internet video data, video analysis technology based on multimodal large models is becoming a key force driving AI development. To systematically evaluate and push the boundaries of multimodal large models in video understanding, we are hosting the **HITSZ Lychee VideoVista Evaluation Competition**.
@@ -35,9 +36,9 @@ This competition establishes a comprehensive evaluation framework using internet
 
 | Stage | Time | Description |
 |-------|------|-------------|
-| **Competition Registration** | 2025-11-17 00:00 - 2026-1-10 23:59 | Competition launch; participants must register. |
+| **Competition Registration** | 2025-11-17 00:00 - 2026-02-01 23:59 | Competition launch; participants must register. |
 | **Benchmark A Submission** | 2025-11-17 00:00 - 2026-1-17 23:59 | Participants submit their evaluation results of benchmark A by email. The score will be based on the highest score submitted by the team. |
-| **Benchmark B Submission** | 2026-1-18 00:00 - 2026-1-31 23:59 | Participants submit their evaluation results of benchmark B by email. The score will be based on the highest score submitted by the team. |
+| **Benchmark B Submission** | 2026-1-18 00:00 - 2026-02-07 23:59 | Participants submit their evaluation results of benchmark B by email. The score will be based on the highest score submitted by the team. |
 
 ### 👥 Participation Requirements
 
