@@ -175,7 +175,7 @@ We recommend the following Uni-MoE 2.0 as a baseline.
 | 2 | SeekingYourRoots | 64.90 | 2025-12-29 |
 | 3 | vid | 60.31 | 2025-12-25 |
 | 4 | JNU_BenchTest | 53.45 | 2025-12-18 |
-| 5 | VILAN | 41.80 | 2026-01-03 |
+| 5 | VILAN | 49.33 | 2026-01-10 |
 
 
 ### Benchmark B
@@ -227,7 +227,7 @@ For competition-related questions and support:
 - **Discussion Group**: Join our WeChat group for real-time updates and discussions
 
 <div align="center">
-  <img src="assets/wechat_0104.jpg" alt="WeChat Group" width="200"/>
+  <img src="assets/wechat_0112.jpg" alt="WeChat Group" width="200"/>
 </div>
 
 
