@@ -172,10 +172,10 @@ We recommend the following Uni-MoE 2.0 as a baseline.
 | Rank | Team |  Overall | Last Update |
 |------|------|---------|-------------|
 | 1 | FAITA | 72.02 | 2026-01-04 |
-| 2 | SeekingYourRoots | 64.90 | 2025-12-29 |
+| 2 | SeekingYourRoots | 65.92 | 2026-01-12 |
 | 3 | vid | 60.31 | 2025-12-25 |
 | 4 | JNU_BenchTest | 53.45 | 2025-12-18 |
-| 5 | VILAN | 49.33 | 2026-01-10 |
+| 5 | VILAN | 39.50 | 2026-01-12 |
 
 
 ### Benchmark B
