@@ -175,7 +175,7 @@ We recommend the following Uni-MoE 2.0 as a baseline.
 | 2 | SeekingYourRoots | 65.92 | 2026-01-12 |
 | 3 | vid | 60.31 | 2025-12-25 |
 | 4 | JNU_BenchTest | 53.45 | 2025-12-18 |
-| 5 | VILAN | 39.50 | 2026-01-12 |
+| 5 | VILAN | 51.66 | 2026-01-14 |
 
 
 ### Benchmark B
