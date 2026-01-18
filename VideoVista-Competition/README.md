@@ -15,7 +15,7 @@ If you appreciate our competition, please consider giving us a star ⭐ on GitHu
 
 ## 🔥 News
 
-- **`2026.01.18`** 🔥🔥🔥 **Benchmark B has been released at [huggingface](https://huggingface.co/datasets/HIT-TMG/VideoVista-2), and submissions are open starting today**!
+- **`2026.01.18`** 🔥🔥🔥 **Benchmark B has been released at [HuggingFace](https://huggingface.co/datasets/HIT-TMG/VideoVista-2), and submissions are open starting today**!
 
 - **`2026.01.09`** 🚀  We have extended the competition registration deadline to February 1, 2026. Meanwhile, the opening time for Benchmark B submissions remains unchanged, and the submission deadline has been extended to February 7, 2026.
 
