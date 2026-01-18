@@ -9,7 +9,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.17821-b31b1b.svg)](https://arxiv.org/abs/2504.17821)
 [![🤗 Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-VideoVista-yellow)](https://huggingface.co/collections/Uni-MoE/videovista-67f397b7eddc81cb207228a2)
 [![🤗 Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-VideoVista_CulturalLingo-yellow)](https://huggingface.co/datasets/Uni-MoE/VideoVista-CulturalLingo)
-[![🤗 Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-VideoVista 2-yellow)](https://huggingface.co/datasets/HIT-TMG/VideoVista-2)
+[![🤗 Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-VideoVista_2-yellow)](https://huggingface.co/datasets/HIT-TMG/VideoVista-2)
 
 If you appreciate our competition, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.
 
@@ -101,6 +101,8 @@ For more detailed information, please refer to the [VideoVista-CulturalLingo](ht
 - Answers not open-source to ensure fair evaluation
 - Final evaluation is based on B Benchmark scores
 
+Benchmark B are released at [huggingface](https://huggingface.co/datasets/HIT-TMG/VideoVista-2).
+
 ## 📈 Evaluation Metric
 
 **Accuracy (Acc)**:
@@ -185,6 +187,8 @@ We recommend the following Uni-MoE 2.0 as a baseline.
 
 
 ### Benchmark B
+
+Benchmark B will be updated daily at 16:00, and results submitted after 16:00 will be processed at 16:00 on the following day.
 
 | Rank | Team | Overall | Last Update |
 |------|-------|---------|-------------|
