@@ -9,7 +9,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.17821-b31b1b.svg)](https://arxiv.org/abs/2504.17821)
 [![🤗 Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-VideoVista-yellow)](https://huggingface.co/collections/Uni-MoE/videovista-67f397b7eddc81cb207228a2)
 [![🤗 Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-VideoVista_CulturalLingo-yellow)](https://huggingface.co/datasets/Uni-MoE/VideoVista-CulturalLingo)
-
+[![🤗 Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-VideoVista 2-yellow)](https://huggingface.co/datasets/HIT-TMG/VideoVista-2)
 
 If you appreciate our competition, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.
 
@@ -19,6 +19,8 @@ If you appreciate our competition, please consider giving us a star ⭐ on GitHu
 
 - **`2026.01.09`** 🚀  We have extended the competition registration deadline to February 1, 2026. Meanwhile, the opening time for Benchmark B submissions remains unchanged, and the submission deadline has been extended to February 7, 2026.
 ## 🏆 Competition
+
+- **`2026.01.18`** 🚀 **Benchmark B has been released at [huggingface](https://huggingface.co/datasets/HIT-TMG/VideoVista-2), and submissions are open starting today**!
 
 With the exponential growth of internet video data, video analysis technology based on multimodal large models is becoming a key force driving AI development. To systematically evaluate and push the boundaries of multimodal large models in video understanding, we are hosting the **HITSZ Lychee VideoVista Evaluation Competition**.
 
