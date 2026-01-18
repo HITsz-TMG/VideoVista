@@ -18,9 +18,12 @@ If you appreciate our competition, please consider giving us a star ⭐ on GitHu
 - **`2025.11.17`** 🚀 Competition registration is now open! Join us for the HITSZ Lychee Video Evaluation Competition. Fill out [**Team Registration Form**](https://docs.qq.com/form/page/DQ2NBbWF1cHpmWFJK#/fill) and [**Participants Registration Form**](https://docs.qq.com/form/page/DQ2JPenFKZFVJUW5y#/fill) to Register! **Attention:** In addition to filling out the Team Registration Form as a team, each participant must also fill out the Participants Registration Form individually.
 
 - **`2026.01.09`** 🚀  We have extended the competition registration deadline to February 1, 2026. Meanwhile, the opening time for Benchmark B submissions remains unchanged, and the submission deadline has been extended to February 7, 2026.
-## 🏆 Competition
 
 - **`2026.01.18`** 🚀 **Benchmark B has been released at [huggingface](https://huggingface.co/datasets/HIT-TMG/VideoVista-2), and submissions are open starting today**!
+- 
+## 🏆 Competition
+
+
 
 With the exponential growth of internet video data, video analysis technology based on multimodal large models is becoming a key force driving AI development. To systematically evaluate and push the boundaries of multimodal large models in video understanding, we are hosting the **HITSZ Lychee VideoVista Evaluation Competition**.
 
