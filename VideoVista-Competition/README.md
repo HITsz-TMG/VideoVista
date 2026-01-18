@@ -105,7 +105,7 @@ For more detailed information, please refer to the [VideoVista-CulturalLingo](ht
 - Answers not open-source to ensure fair evaluation
 - Final evaluation is based on B Benchmark scores
 
-Benchmark B are released at [huggingface](https://huggingface.co/datasets/HIT-TMG/VideoVista-2).
+Benchmark B are released at [HuggingFace](https://huggingface.co/datasets/HIT-TMG/VideoVista-2).
 
 ## 📈 Evaluation Metric
 
