@@ -180,14 +180,17 @@ We recommend the following Uni-MoE 2.0 as a baseline.
 
 ### Benchmark A
 
+Benchmark A is no longer accepting submissions. All subsequent submissions will be treated as Benchmark B by default.
+
 | Rank | Team |  Overall | Last Update |
 |------|------|---------|-------------|
 | 1 | FAITA | 72.02 | 2026-01-04 |
 | 2 | SeekingYourRoots | 71.12| 2026-01-16 |
 | 3 | RISC | 60.43 | 2026-01-17 |
 | 4 | vid | 60.31 | 2025-12-25 |
-| 5 | JNU_BenchTest | 53.45 | 2025-12-18 |
-| 6 | VILAN | 51.66 | 2026-01-14 |
+| 5 | hqu-hnlp | 56.80 | 2026-01-19 |
+| 6 | JNU_BenchTest | 53.45 | 2025-12-18 |
+| 7 | VILAN | 51.66 | 2026-01-14 |
 
 
 ### Benchmark B
@@ -196,9 +199,8 @@ Benchmark B will be updated daily at 16:00, and results submitted after 16:00 wi
 
 | Rank | Team | Overall | Last Update |
 |------|-------|---------|-------------|
-| 1 |  Baseline-Qwen3-VL-8B-Instruct | 59.26 | 2025-11-17 |
-| 2 |  Baseline-Uni-MoE-2.0-Omni | 49.62 | 2025-11-17 |
-| 3 | Baseline-InternVL3_5-8B | 47.08 | 2025-11-17 |
+| 1 |  VILAN | 52.52 | 2026-01-20 |
+| 2 |  vid | 49.56 | 2026-01-19 |
 
 
 *Leaderboard updates every 24 hours during competition period*
