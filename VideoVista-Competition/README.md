@@ -201,6 +201,7 @@ Benchmark B will be updated daily at 16:00, and results submitted after 16:00 wi
 |------|-------|---------|-------------|
 | 1 |  VILAN | 52.52 | 2026-01-20 |
 | 2 |  vid | 49.56 | 2026-01-19 |
+| 3 | SeekingYourRoots | 42.59 | 2026-01-22 |
 
 
 *Leaderboard updates every 24 hours during competition period*
