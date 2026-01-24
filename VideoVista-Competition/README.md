@@ -199,7 +199,7 @@ Benchmark B will be updated daily at 16:00, and results submitted after 16:00 wi
 
 | Rank | Team | Overall | Last Update |
 |------|-------|---------|-------------|
-| 1 |  VILAN | 52.52 | 2026-01-20 |
+| 1 |  VILAN | 59.54 | 2026-01-24 |
 | 2 |  vid | 49.56 | 2026-01-19 |
 | 3 | SeekingYourRoots | 42.59 | 2026-01-22 |
 
