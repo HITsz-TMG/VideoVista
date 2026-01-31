@@ -201,8 +201,8 @@ Benchmark B will be updated daily at 16:00, and results submitted after 16:00 wi
 |------|-------|---------|-------------|
 | 1 | FAITA | 59.69 | 2026-01-30 |
 | 2 |  VILAN | 59.54 | 2026-01-24 |
-| 3 | SeekingYourRoots | 56.47 | 2026-01-26 |
-| 4 | hqu-hnlp | 52.57 | 2026-01-30 |
+| 3 | SeekingYourRoots | 56.47 | 2026-01-31 |
+| 4 | hqu-hnlp | 53.14 | 2026-01-31 |
 | 5 |  vid | 49.56 | 2026-01-19 |
 
 
