@@ -199,7 +199,7 @@ Benchmark B will be updated daily at 16:00, and results submitted after 16:00 wi
 
 | Rank | Team | Overall | Last Update |
 |------|-------|---------|-------------|
-| 1 | FAITA | 59.69 | 2026-01-30 |
+| 1 | FAITA | 60.74 | 2026-02-03 |
 | 2 |  VILAN | 59.54 | 2026-02-01 |
 | 3 | SeekingYourRoots | 57.96 | 2026-02-02 |
 | 4 | hqu-hnlp | 53.14 | 2026-01-31 |
@@ -247,7 +247,7 @@ For competition-related questions and support:
 - **Discussion Group**: Join our WeChat group for real-time updates and discussions
 
 <div align="center">
-  <img src="assets/wechat_0128.jpg" alt="WeChat Group" width="200"/>
+  <img src="assets/wechat_0203.jpg" alt="WeChat Group" width="200"/>
 </div>
 
 
