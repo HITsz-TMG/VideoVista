@@ -200,11 +200,12 @@ Benchmark B will be updated daily at 16:00, and results submitted after 16:00 wi
 | Rank | Team | Overall | Last Update |
 |------|-------|---------|-------------|
 | 1 | FAITA | 62.50 | 2026-02-06 |
-| 2 |  VILAN | 59.54 | 2026-02-01 |
-| 3 | SeekingYourRoots | 59.06 | 2026-02-05 |
+| 2 | SeekingYourRoots | 60.06 | 2026-02-05 |
+| 3 |  VILAN | 59.54 | 2026-02-01 |
 | 4 | hqu-hnlp | 57.35 | 2026-02-06 |
-| 5 |  vid | 49.56 | 2026-01-19 |
-| 6 | RISC | 47.80 | 2026-02-06 |
+| 5 | RISC | 56.64 | 2026-02-06 |
+| 6 |  vid | 49.56 | 2026-01-19 |
+
 
 
 *Leaderboard updates every 24 hours during competition period*
