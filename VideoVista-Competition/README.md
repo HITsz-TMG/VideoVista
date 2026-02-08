@@ -15,6 +15,8 @@ If you appreciate our competition, please consider giving us a star ⭐ on GitHu
 
 ## 🔥 News
 
+- **`2026.02.08`** 🔥🔥🔥 The competition has successfully concluded, and the final Leaderboard-B have been updated. The documentation outlining required submissions for winning teams will be released in the coming days—please stay tuned for further notices.
+
 - **`2026.01.18`** 🔥🔥🔥 **Benchmark B has been released at [HuggingFace](https://huggingface.co/datasets/HIT-TMG/VideoVista-2), and submissions are open starting today**!
 
 - **`2026.01.09`** 🚀  We have extended the competition registration deadline to February 1, 2026. Meanwhile, the opening time for Benchmark B submissions remains unchanged, and the submission deadline has been extended to February 7, 2026.
@@ -201,9 +203,9 @@ Benchmark B will be updated daily at 16:00, and results submitted after 16:00 wi
 |------|-------|---------|-------------|
 | 1 | FAITA | 62.50 | 2026-02-06 |
 | 2 | SeekingYourRoots | 60.06 | 2026-02-07 |
-| 3 |  VILAN | 59.54 | 2026-02-01 |
-| 4 | hqu-hnlp | 57.35 | 2026-02-06 |
-| 5 | RISC | 56.64 | 2026-02-07 |
+| 3 |  VILAN | 59.86 | 2026-02-07 |
+| 4 | RISC | 57.52 | 2026-02-07 |
+| 5 | hqu-hnlp | 57.35 | 2026-02-06 |
 | 6 |  vid | 49.56 | 2026-01-19 |
 
 
