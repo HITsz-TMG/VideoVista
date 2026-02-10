@@ -15,6 +15,8 @@ If you appreciate our competition, please consider giving us a star ⭐ on GitHu
 
 ## 🔥 News
 
+- **`2026.02.08`** 🔥🔥🔥 We update the Submission Requirements Section in README.
+
 - **`2026.02.08`** 🔥🔥🔥 The competition has successfully concluded, and the final Leaderboard-B have been updated. The documentation outlining required submissions for winning teams will be released in the coming days—please stay tuned for further notices.
 
 - **`2026.01.18`** 🔥🔥🔥 **Benchmark B has been released at [HuggingFace](https://huggingface.co/datasets/HIT-TMG/VideoVista-2), and submissions are open starting today**!
@@ -24,7 +26,34 @@ If you appreciate our competition, please consider giving us a star ⭐ on GitHu
 - **`2025.11.17`** 🚀 Competition registration is now open! Join us for the HITSZ Lychee Video Evaluation Competition. Fill out [**Team Registration Form**](https://docs.qq.com/form/page/DQ2NBbWF1cHpmWFJK#/fill) and [**Participants Registration Form**](https://docs.qq.com/form/page/DQ2JPenFKZFVJUW5y#/fill) to Register! **Attention:** In addition to filling out the Team Registration Form as a team, each participant must also fill out the Participants Registration Form individually.
 
 
+## Submission Requirements
 
+**Deadline: March 2**
+
+Please send the following materials to **videovista@163.com** before the deadline:
+
+### Submission Checklist
+
+1. **Model Weights**  
+   Upload to [Hugging Face](https://huggingface.co) or [ModelScope](https://modelscope.cn) and provide the model link.
+
+2. **Inference Code**  
+   Include environment dependencies (`requirements.txt`) and usage instructions (`README`), packaged as a compressed file.
+
+3. **Technical Report**  
+   PDF format, approximately 2 pages, describing the methodology and its innovation.
+
+### Email Format
+
+- **To**: videovista@163.com  
+- **Subject**: `{TeamName}_submission`  
+- **Body**: Must include the model weight link, inference code package, and technical report
+
+---
+
+### Follow-up
+
+After result reproduction and innovation evaluation, we will collect bank account information from winning teams for prize distribution around **mid-March**.
 
 
 ## 🏆 Competition
