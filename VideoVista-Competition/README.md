@@ -15,6 +15,8 @@ If you appreciate our competition, please consider giving us a star ⭐ on GitHu
 
 ## 🔥 News
 
+- **`2026.03.01`** 🔥🔥🔥 We have open-sourced the answers of VideoVista2 benchmark! Detailed in [HuggingFace](https://huggingface.co/datasets/HIT-TMG/VideoVista-2).
+
 - **`2026.02.08`** 🔥🔥🔥 We update the Submission Requirements Section in README.
 
 - **`2026.02.08`** 🔥🔥🔥 The competition has successfully concluded, and the final Leaderboard-B have been updated. The documentation outlining required submissions for winning teams will be released in the coming days—please stay tuned for further notices.
