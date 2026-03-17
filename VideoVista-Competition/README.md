@@ -13,7 +13,10 @@
 
 If you appreciate our competition, please consider giving us a star ⭐ on GitHub to stay updated with the latest developments.
 
+
 ## 🔥 News
+
+- **`2026.03.17`** 🔥🔥🔥 We have published the final list of winning teams. Meanwhile, the collection of certificate shipping addresses and prize payment account information has been sent privately to each team's email. Please check your email.
 
 - **`2026.03.01`** 🔥🔥🔥 We have open-sourced the answers of VideoVista2 benchmark! Detailed in [HuggingFace](https://huggingface.co/datasets/HIT-TMG/VideoVista-2).
 
@@ -26,6 +29,16 @@ If you appreciate our competition, please consider giving us a star ⭐ on GitHu
 - **`2026.01.09`** 🚀  We have extended the competition registration deadline to February 1, 2026. Meanwhile, the opening time for Benchmark B submissions remains unchanged, and the submission deadline has been extended to February 7, 2026.
 
 - **`2025.11.17`** 🚀 Competition registration is now open! Join us for the HITSZ Lychee Video Evaluation Competition. Fill out [**Team Registration Form**](https://docs.qq.com/form/page/DQ2NBbWF1cHpmWFJK#/fill) and [**Participants Registration Form**](https://docs.qq.com/form/page/DQ2JPenFKZFVJUW5y#/fill) to Register! **Attention:** In addition to filling out the Team Registration Form as a team, each participant must also fill out the Participants Registration Form individually.
+
+## 🏅 Awards
+
+| Prize | Teams | Award | Certificate | Team |
+|-------|--------|--------|-------------| ----|
+| 🥇 First Prize | 1 team | ¥10,000 | ✅ | FAITA |
+| 🥈 Second Prize | 1 team | ¥6,000 | ✅ | SeekingYourRoots |
+| 🥉 Third Prize | 1 team | ¥3,000 | ✅ | VILAN |
+| 🏅 Excellence Award | 2 teams | ¥2,000 | ✅ | RISC, hqu-hnlp |
+| 🏅 Innovation Award | 1 team | ¥2,000 | ✅ | hqu-hnlp|
 
 
 ## Submission Requirements
