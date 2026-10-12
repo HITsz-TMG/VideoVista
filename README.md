@@ -33,6 +33,17 @@ If you appreciate our project, please consider giving us a star ⭐ on GitHub to
 ## :page_facing_up: Citation
 If you find this project useful in your research, please consider cite:
 ```bibtex
+@ARTICLE{videovista_2,
+  author={Li, Yunxin and Chen, Xinyu and Xu, Zhenran and Wang, Qi and Ma, Yicheng and Liu, Jin and Chen, Kai and Pan, Youcheng and Ding, Yuxin and Wang, Zhefeng and Huai, Baoxing and Hu, Baotian and Zhang, Min},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={VideoVista: Benchmarking Diverse and Complex Video-Language Interaction for MLLMs}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Video Question Answering;Video Evaluation Benchmarks;Video Understanding and Reasoning;Multimodal LLMs},
+  doi={10.1109/TPAMI.2026.3741941}}
+
 @article{li2024videovista,
   title={Videovista: A versatile benchmark for video understanding and reasoning},
   author={Li, Yunxin and Chen, Xinyu and Hu, Baotian and Wang, Longyue and Shi, Haoyuan and Zhang, Min},
