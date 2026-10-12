@@ -17,6 +17,8 @@ If you appreciate our project, please consider giving us a star ⭐ on GitHub to
 
 ## 🔥 News
 
+**`2026.10.01`**  Our newest benchmark, VideoVista, has been accepted by IEEE TPAMI!
+
 **`2025.01.16`**  We have open-sourced the second version of the fully manually annotated video intelligence evaluation benchmark. [VideoVista-Benchmark B](https://huggingface.co/datasets/HIT-TMG/VideoVista-2)
 
 **`2025.12.11`** 🚀 We have open-sourced the video long chain-of-thought reasoning data for cold-start reinforcement learning, available at [Video-CoTs](https://huggingface.co/datasets/HIT-TMG/VideoVista-CoTs)
